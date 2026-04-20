@@ -1,1 +1,0 @@
-print("Fim do programa.")

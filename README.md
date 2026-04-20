@@ -1,2 +1,1 @@
-# Meu Projeto DevOps
-Primeiro commit no Git
+Projeto com CI/CD usando GitHub Actions

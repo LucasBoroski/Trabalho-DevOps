@@ -6,6 +6,6 @@ WORKDIR /app
 
 # Copia todos os arquivos
 COPY . .
-
+RUN pip install -r requirements.txt
 # Comando para rodar a aplicação
 CMD ["python", "app.py"]

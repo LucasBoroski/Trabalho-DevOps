@@ -1,1 +1,2 @@
-print("Meu projeto DevOps")
+numero = 10
+print("Número:", numero)

@@ -2,5 +2,5 @@ flask
 requests
 fastapi
 uvicorn
-pytestS
+pytest
 httpx

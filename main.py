@@ -4,7 +4,7 @@ app = FastAPI()
 
 @app.get("/")
 def home():
-    return {"mensagem": "Aplicação rodando"}
+    return {"mensagem": "API funcionando 🚀"}
 
 @app.get("/usuario/{id}")
 def get_usuario(id: int):
